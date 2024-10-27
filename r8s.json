@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1729984523,
-      "filename": "DerpFest-14-Community-Stable-r8s-20241027-0735.zip",
-      "id": "06a284f0c1d159f8cda4dd77086b1ebafac091074af85b5d01657af44072478d",
+      "filename": "DerpFest-14-Community-Stable-r8s-20241027-0925.zip",
+      "id": "f88b1e980ac9da7e96551823152c24aba212063e135696204c6d1d9520310e11",
       "romtype": "Community",
-      "size": 1985863094,
-      "url": "https://sourceforge.net/projects/derpfest-aosp/files/samsung/r8s/DerpFest-14-Community-Stable-r8s-20241027-0735.zip/download",
+      "size": 1985845864,
+      "url": "https://sourceforge.net/projects/derpfest-aosp/files/samsung/r8s/DerpFest-14-Community-Stable-r8s-20241027-0925.zip/download",
       "version": "14"
     }
   ]
