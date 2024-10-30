@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1730144428,
-      "filename": "DerpFest-15-Community-Stable-x1s-20241028-1640.zip",
-      "id": "d0f5ff421df492b645d29a91dbc292b50a90712641dd873d2cb723b45a460f1f",
+      "datetime": 1730276700,
+      "filename": "DerpFest-15-Community-Stable-x1s-20241030-0525.zip",
+      "id": "980ee90355f0ee040aab038271006afd94ea61a9f134db98374dd951648d9078",
       "romtype": "Community",
-      "size": 2023283410,
-      "url": "https://sourceforge.net/projects/derpfest-aosp/files/samsung/x1s/DerpFest-15-Community-Stable-x1s-20241028-1640.zip/download",
+      "size": 2023316103,
+      "url": "https://sourceforge.net/projects/derpfest-aosp/files/samsung/x1s/DerpFest-15-Community-Stable-x1s-20241030-0525.zip/download",
       "version": "15"
     }
   ]
